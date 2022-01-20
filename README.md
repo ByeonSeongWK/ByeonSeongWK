@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br/><br/>
 <h4 style="align: center; margin-bottom: 1%;">Me&nbsp👨🏻‍💻</h4>
 
-<a href="https://blog.naver.com/sungwook6546"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="https://www.instagram.com/bbbb__s_w/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://github.com/ByeonSeongWK?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://blog.naver.com/sungwook6546"><img  align= "center" src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="https://www.instagram.com/bbbb__s_w/"><img  align= "center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://github.com/ByeonSeongWK?tab=repositories"><img  align= "center" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 
 <h4 align= "center">sungwook6546@naver.com🤙</h4>
