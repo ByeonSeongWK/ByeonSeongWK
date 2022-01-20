@@ -28,7 +28,7 @@ li {
 ![readme_main1](https://user-images.githubusercontent.com/92075727/150298105-d7edbfea-4918-448b-978c-d30351777f4c.jpeg)
 
 
-
+<div stlye="background-color: #fff; width: 50%;">
 <h4 style="text-align: center;margin-bottom: 1%;">Stack&nbsp🖥</h4>
 <ul style="width: 350px; height: 30px; margin: 0 auto; list-style: none;;">
   <li style="float: left; list-style: none;"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp</li>
@@ -51,4 +51,4 @@ li {
 </ul>
 
 <h4 style="text-align: center;">sungwook6546@naver.com🤙</h4>
-            
+</div>            
