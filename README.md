@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-li, ol, ul {
-    list-style: none;
-}
-
-li {
-    float: left;
-}
-</style>
-
 ![readme_main1](https://user-images.githubusercontent.com/92075727/150298105-d7edbfea-4918-448b-978c-d30351777f4c.jpeg)
 
 
@@ -41,5 +31,5 @@ li {
 <a href="https://blog.naver.com/sungwook6546"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="https://www.instagram.com/bbbb__s_w/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://github.com/ByeonSeongWK?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 
-<h4 style="text-align: center;">sungwook6546@naver.com🤙</h4>
+<h4 align= "center">sungwook6546@naver.com🤙</h4>
 
