@@ -28,15 +28,9 @@ li {
 ![readme_main1](https://user-images.githubusercontent.com/92075727/150298105-d7edbfea-4918-448b-978c-d30351777f4c.jpeg)
 
 
-<div stlye="background-color: #fff; width: 50%;">
-<h4 style="text-align: center;margin-bottom: 1%;">Stack&nbsp🖥</h4>
-<ul style="width: 350px; height: 30px; margin: 0 auto; list-style: none;;">
-  <li style="float: left; list-style: none;"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp</li>
-  <li style="float: left; list-style: none;"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp</li>
-  <li style="float: left; list-style: none;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp</li>
-  <li style="float: left; list-style: none;"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp</li>
-  <li style="float: left; list-style: none;"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp</li>
-</ul>
+<div stlye="background-color: #fff; width: 50%; height: 700px;">
+<h4 style="text-align: center;margin-bottom: 1%;">Stack&nbsp🖥</h4><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp</li>
+
 <ul style="width: 300px; height: 30px;margin: 0 auto; margin-bottom: 2%;">
   <li style="float: left; list-style: none;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp</li>
   <li style="float: left; list-style: none;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp</li>
