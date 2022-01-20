@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
+
 <style>
 li, ol, ul {
     list-style: none;
@@ -24,11 +24,11 @@ li {
     float: left;
 }
 </style>
-</head>
+
 <img  widht="100%" height="400px" align="center" src="https://user-images.githubusercontent.com/92075727/150293075-65b24b8d-ee04-49a5-b6b4-a993dc059b19.jpeg"/>
 
 <h4 style="text-align: center;margin-bottom: 1%;">Stack&nbsp🖥</h4>
-<ul style="width: 350px; height: 30px; margin: 0 auto;">
+<ul style="width: 350px; height: 30px; margin: 0 auto; list-style: none;;">
   <li><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp</li>
   <li><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp</li>
   <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp</li>
