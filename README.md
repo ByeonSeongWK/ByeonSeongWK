@@ -25,7 +25,8 @@ li {
 }
 </style>
 
-<img  widht="100%" height="400px" align="center" src="https://user-images.githubusercontent.com/92075727/150293075-65b24b8d-ee04-49a5-b6b4-a993dc059b19.jpeg"/>
+![readme_main2](https://user-images.githubusercontent.com/92075727/150298205-7b93631e-923b-478e-bd97-9a96d61637e0.jpeg)
+
 
 <h4 style="text-align: center;margin-bottom: 1%;">Stack&nbsp🖥</h4>
 <ul style="width: 350px; height: 30px; margin: 0 auto; list-style: none;;">
