@@ -25,7 +25,8 @@ li {
 }
 </style>
 
-![readme_main2](https://user-images.githubusercontent.com/92075727/150298205-7b93631e-923b-478e-bd97-9a96d61637e0.jpeg)
+![readme_main1](https://user-images.githubusercontent.com/92075727/150298105-d7edbfea-4918-448b-978c-d30351777f4c.jpeg)
+
 
 
 <h4 style="text-align: center;margin-bottom: 1%;">Stack&nbsp🖥</h4>
